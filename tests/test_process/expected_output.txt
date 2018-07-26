@@ -1,0 +1,4 @@
+ Existing PID file {/Users/ross/Dropbox/Projects/tvision/tests/test_process/var/run/program.pid} not found.
+ Program {/Users/ross/Dropbox/Projects/tvision/tests/test_process/srv/program} started with PID {}.
+ PID {} for program {/Users/ross/Dropbox/Projects/tvision/tests/test_process/srv/program} logged in {/Users/ross/Dropbox/Projects/tvision/tests/test_process/var/run/program.pid}.
+ Process with PID {} stopped.

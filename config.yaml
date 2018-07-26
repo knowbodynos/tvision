@@ -1,0 +1,13 @@
+- time: "11:30"
+  verb: "start"
+  program_name: "/srv/release-bunnies"
+  pidfile_name: "/var/run/release-bunnies.pid"
+
+- time: "12:30"
+  verb: "write"
+  socket_name: "/var/run/release-bunnies.sock"
+  message: "37"
+
+- time: "13:30"
+  verb: "stop"
+  pidfile_name: "/var/run/release-bunnies.pid"

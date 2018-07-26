@@ -1,0 +1,14 @@
+ No such file or directory (Could not connect to socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.)
+ No such file or directory (Could not connect to socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.)
+ No such file or directory (Could not connect to socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.)
+ Connected to socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.
+ Socket timeout is invalid. (Current socket timeout {-30} must be changed to a positive value.)
+ Closing socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.
+ Connected to socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.
+ Socket timeout is invalid. (Current socket timeout {0} must be changed to a positive value.)
+ Closing socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.
+ Connected to socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.
+ Sending message {Testing socket...} to server through socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.
+ Received message {Testing socket..} from server.
+ Received message {.} from server.
+ Closing socket {/Users/ross/Dropbox/Projects/tvision/tests/test_socket/var/run/program.sock}.

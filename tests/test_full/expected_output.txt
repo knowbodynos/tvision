@@ -1,0 +1,19 @@
+ Configuration file loaded.
+ Existing PID file {test_full/var/run/program.pid} not found.
+ Program {test_full/srv/program} started with PID {}.
+ PID {} for program {test_full/srv/program} logged in {test_full/var/run/program.pid}.
+ Connected to socket {test_full/var/run/program.sock}.
+ Sending message {37} to server through socket {test_full/var/run/program.sock}.
+ Received message {37} from server.
+ Closing socket {test_full/var/run/program.sock}.
+ Process with PID {} stopped.
+ Configuration file loaded.
+ Clearing existing PID file {test_full/var/run/program.pid}.
+ Program {test_full/srv/program} started with PID {}.
+ PID {} for program {test_full/srv/program} logged in {test_full/var/run/program.pid}.
+ Connected to socket {test_full/var/run/program.sock}.
+ Sending message {37} to server through socket {test_full/var/run/program.sock}.
+ Received message {37} from server.
+ Closing socket {test_full/var/run/program.sock}.
+ Configuration file loaded.
+ Process with PID {} stopped.

@@ -1,0 +1,13 @@
+- time: "00:01"
+  verb: "start"
+  program_name: "test_full/srv/program"
+  pidfile_name: "test_full/var/run/program.pid"
+
+- time: "00:02"
+  verb: "write"
+  socket_name: "test_full/var/run/program.sock"
+  message: "37"
+
+- time: "00:03"
+  verb: "stop"
+  pidfile_name: "test_full/var/run/program.pid"
